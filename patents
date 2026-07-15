@@ -1,1 +1,51 @@
 
+<!DocType html>
+<html>
+<head>
+<title>Moe Rahnema Patents</title>
+<style>
+h1,h2,h3,h4{color:blue;font-weight:bold;}
+</style>
+
+</head>
+<body>
+<a href="index.html">Home</a> |
+<a href="about.html">About Me</a> |
+<a href="education.html">Formal Education & Technical Skills</a> |
+<a href="clients.html">Clients & Employers</a> |
+<a href="projects.html">Projects</a> |
+<a href="teaching.html">Teaching & Training</a> |
+<a href="awards.html">Awards & Recognitions</a> |
+<a href="ai.html">AI Research & Training</a> |
+<a href="publicationspresentations.html">Publications & Presentations</a> |
+<a href="patents.html">Patents</a> |
+<a href="contact.html">Contact</a>
+
+<h1>List of Patents</h1>
+
+<uL>
+<li> " Block phase estimator for the coherent detection of non-differentially phase modulated data bursts on Rician fading channels”,  IJWIN, vol 6, 
+  No 3, 1999</li>
+
+ <li>"Methods and apparatus for demand-assigned reduced rate out-of-band signaling channel", US patent 5465253, issued on
+   11/7/1995</li> 
+
+   <li>"Method and apparatus for adaptive directed route randomization and distribution in a richly connected communication network", US patent 5430729, issued on
+     07/04/1995</li>
+
+  <li>"Symbol timing recovery and tracking method for burst-mode digital communications",Us patent 5870443 issued on 2/9/99></li>
+<li>“Method and apparatus for optimum soft-decision Viterbi decoding of convolutional-differential encoded QPSK data in coherent detection”, US patent 5754600,
+  issued 5/7/98</li>
+
+  <li>"A Block phase estimator for the coherent detection of non-differentially phase modulated data bursts on Rician fading channels, patent issued 
+    on 6/6/00</li>
+
+  <li>"Burst format and associated signal processing to improve frequency/timing estimation for random access", joint patent
+    issued on 4/16/02</li>
+
+  <li>"Channel Estimation under Fading", Patent issued on 1/30/01</li>
+  <li>"Signaling maintenance for discontinuous information communication", joint patent issued on 5/07/02</li>
+
+  </body>
+</html>
+</uL>
