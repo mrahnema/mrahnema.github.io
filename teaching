@@ -1,1 +1,48 @@
+<!DocType html>
+<html>
+<head>
+<title>Moe Rahnema Teaching & Training</title>
+<style>
+h1,h2,h3,h4{color:blue;font-weight:bold;}
+</style>
 
+</head>
+<body>
+<a href="index.html">Home</a> |
+<a href="about.html">About Me</a> |
+<a href="education.html">Formal Education & Technical Skills</a> |
+<a href="clients.html">Clients & Employers</a> |
+<a href="projects.html">Projects</a> |
+<a href="teaching.html">Teaching & Training</a> |
+<a href="awards.html">Awards & Recognitions</a> |
+<a href="ai.html">AI Research & Training</a> |
+<a href="publicationspresentations.html">Publications & Presentations</a> |
+<a href="patents.html">Patents</a> |
+<a href="contact.html">Contact</a>
+
+<h1>Teaching & Training</h1><br>
+
+<h2>Lecturer – Northeastern University/Boston/1983</h2>
+
+<ul>
+
+<li>Taught communication networks, control theory, and digital logic</li> 
+<li>Supervised engineering laboratories and technical coursework</li>
+
+</ul>
+
+ 
+<h2>Industry Training workshops</h2>
+
+<ul>
+
+<li>Developed and presented technical training seminar on GPRS and UMTS core network design and performance issues at LCC</li>
+<li>Developed a 2-day GSM short course and presented to technical and managerial staff at HNS</li>  
+<li>Wrote and published the 1st survey paper on GSM in IEEE Communication magazine in 1993</li>
+<li>Developed a 3-day technical training on GPRS network design, parameter setting and tuning and presented to
+engineering and management teams at Maxis Academy /Malaysia</li>
+
+</ul>
+
+</body>
+</html>
