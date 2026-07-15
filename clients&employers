@@ -9,7 +9,7 @@ h1,h2,h3,h4{color:blue;font-weight:bold;}
 
 </head>
   <body>
-
+<nav>
 <a href="index.html">Home</a> |
 <a href="about.html">About Me</a> |
 <a href="education.html">Formal Education & Technical Skills</a> |
@@ -21,7 +21,7 @@ h1,h2,h3,h4{color:blue;font-weight:bold;}
 <a href="publicationspresentations.html">Publications & Presentations</a> |
 <a href="patents.html">Patents</a> |
 <a href="contact.html">Contact</a>
-
+</nav>
 <h2>
 Clients & Employers
 </h2>
