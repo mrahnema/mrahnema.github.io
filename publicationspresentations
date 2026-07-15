@@ -1,1 +1,78 @@
 
+<!DocType html>
+<html>
+<head>
+<title>Moe Rahnema Publications & Presentations</title>
+<style>
+h1,h2,h3,h4{color:blue;font-weight:bold;}
+</style>
+
+</head>
+<body>
+<a href="index.html">Home</a> |
+<a href="about.html">About Me</a> |
+<a href="education.html">Formal Education & Technical Skills</a> |
+<a href="clients.html">Clients & Employers</a> |
+<a href="projects.html">Projects</a> |
+<a href="teaching.html">Teaching & Training</a> |
+<a href="awards.html">Awards & Recognitions</a> |
+<a href="ai.html">AI Research & Training</a> |
+<a href="publicationspresentations.html">Publications & Presentations</a> |
+<a href="patents.html">Patents</a> |
+<a href="contact.html">Contact</a>
+
+
+<h1>
+Publications & Presentations
+</h1>
+
+<ul>
+<li>“From LTE to LTE-Advanced Pro and 5G”,  with Marcin Dryjanski, Artechouse/USA, published September 2017</li> 
+
+<li>“UMTS Network Planning, Optimization, and Inter-operation with GSM”, John Wiley & Sons, coming out late December 2007</li>
+
+<li>“Smart proposed System design and KPI Documentation”, Prepared as Internal document for Telcel/ Ericsson/Mexico, March 25/2008  Provides the specifications for an internal UMTS network performance analysis and optimization tool
+</li>
+<li>"Mitigating interference between carriers”, Wireless Asia, December 2005</li>
+<li>“The Smart way of Planning UMTS in GSM Networks”, Land Mobile Magazine, March 2006</li>
+
+<li>“Interference and Coverage-Capacity Interactions in UMTS and the Implications on Network Planning”, submitted to IEEE  Wireless Comm Magazine for Pub, Oct, 2005
+Oct, 2005</li>
+<li>“Preparatory Steps for UMTS overlay in GSM networks”, T-Mobile, internal document, August, 2005 </li>
+<li>"Overview of GSM Systems and Protocol Architecture", IEEE Communication Magazine, April 1993 
+  (later became a Quarterly Reprint of IEEE publications on GSM)/li>
+<li>“UMTS RF/radio planning guidelines”, T-Mobile, internal document, Nov 2005</li>
+
+
+ <li>“multi-operator interference management”, submitted for pub, Land Mobile, Oct 2005</li>
+<li>“UMTS Antenna Integration with existing GSM sites”, T-Mobile, internal document, Oct 2005</li>
+<li><www.lcc.com/media_center/publications.htm , pointer to several of my white papers on  LCC website</li> 
+
+<li>“Design Considerations for Core Networks in GPRS and UMTS”, 3GIS Annual conference, Athen/Greece, July 2-3/2001.
+</li>
+<li>“The Challenges of implementing and operating GPRS through the existing GSM network infrastructures”, 
+  presented at the IIR Telecoms & Technology Conference, London, Sept 2001li</li>>
+
+    <li>"A vision for Optical Core Networks in Future 3G Systems”, IP_Core Network Analyst, Oct 2001</li>
+<li>“3G---Via Optical Core Networking”, Electronics World, January 2002
+</li>
+    
+<li>“Optimum soft Decision decoding with channel state information in the presence of fading”,  IEEE Communication Magazine, Vol. 35, No.7, pp 110-111, July 1997 
+  (with Antia,Y.)</li>
+
+<li>"Smart Trunk Scheduling Strategies for Future Integrated packet Switched Networks”, IEEE Communications Magazine, vol 26., issue 2,
+  Feb 1988"<li/>
+
+    
+<li>"Frame Relaying and the Fast Packet Switching Concepts and Issues", IEEE Network Magazine, July 1991</li>
+
+    <li>"The Fast Packet Ring Switch: A High Performance Efficient Architecture with Multi-cast Capability",
+      IEEE Transactions on Communications, Vol 38, No 4, April 1990
+</li>
+
+    <li>"Channel equalization for the GSM system", "International Journal of Wireless Information Networks, vol. 3,No. 3, 1996.</li>
+
+  </ul>
+  
+</body>
+</html>
